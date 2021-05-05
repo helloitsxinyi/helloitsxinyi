@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!👋 Thanks for stopping by :) 
+
+My interests lie in fullstack development using the MERN stack, as well as Java for backend development. I also have basic experience in Google CLoud and am keen on picking up AWS too!
+
+If you'd like to collaborate or discuss anything software, feel free to chat with me at LinkedIn: https://www.linkedin.com/in/xinyitay/ :)
 
 <!--
 **xinyitay/xinyitay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
