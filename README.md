@@ -2,7 +2,6 @@
 
 My interests lie in fullstack development using the MERN stack, as well as Java for backend development. I also have basic experience in Google Cloud and am keen on picking up AWS and Spring Boot too!
 
-If you'd like to collaborate or discuss anything software, feel free to chat with me at LinkedIn: https://www.linkedin.com/in/xinyitay/ :)
 
 <!--
 **xinyitay/xinyitay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
