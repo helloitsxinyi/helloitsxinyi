@@ -1,6 +1,6 @@
 ### Hi! Thanks for stopping by 👋
 
-My interests lie in fullstack development using the MERN stack (MongoDB, Express.js, React, Node.js) and Java (Spring) for backend development. I am also currently picking up AWS and Spring Boot too!
+My interests lie in fullstack development using the MERN stack (MongoDB, Express.js, React, Node.js) and Java (Spring) for backend development. I am also currently picking up AWS too!
 
 
 <!--
