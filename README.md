@@ -2,8 +2,9 @@
 
 I'm passionate about fullstack development using JavaScript and Java. I am currently picking up AWS too!
 
-- 👩🏻‍💻 Graduate Student at the National University of Singapore, pursuing Systems Analysis
+- 👩🏻‍💻  Graduate Student at the National University of Singapore, pursuing Systems Analysis
 - :computer: Tools & Technologies: Java, Python, JavaScript, TypeScript, ReactJS, Redux, Angular, Firebase, Express.js, Node.js, Mongoose ODM, Spring
+- :email: Find me at https://www.linkedin.com/in/xinyitay/ :)
 
 <!--
 **xinyitay/xinyitay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
