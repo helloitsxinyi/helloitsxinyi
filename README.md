@@ -1,7 +1,8 @@
 ### Hi! Thanks for stopping by 👋
 
-My interests lie in fullstack development using JavaScript (MongoDB, Express.js, React, Node.js) and Java (Spring) for backend development. I am currently picking up AWS too!
+I'm passionate about fullstack development. I am currently picking up AWS too!
 
+:computer: Tools & Technologies: Java, Python, JavaScript, TypeScript, ReactJS, Redux, Angular, Firebase, Express.js, Node.js, Mongoose ODM, Spring
 
 <!--
 **xinyitay/xinyitay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
