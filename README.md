@@ -1,7 +1,8 @@
 ### Hi! Thanks for stopping by 👋
 
-I'm passionate about fullstack development. I am currently picking up AWS too!
+I'm passionate about fullstack development using JavaScript and Java. I am currently picking up AWS too!
 
+:female-technologist::skin-tone-2: Graduate Student at the National University of Singapore, pursuing Systems Analysis
 :computer: Tools & Technologies: Java, Python, JavaScript, TypeScript, ReactJS, Redux, Angular, Firebase, Express.js, Node.js, Mongoose ODM, Spring
 
 <!--
