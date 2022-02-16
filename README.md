@@ -3,7 +3,7 @@
 I'm passionate about fullstack development using JavaScript and Java. I am currently picking up AWS too!
 
 - 👩🏻‍💻  Graduate Student at the National University of Singapore, pursuing Systems Analysis
-- :computer: Tools & Technologies: Java, Python, JavaScript, TypeScript, ReactJS, Redux, Angular, Firebase, Express.js, Node.js, Mongoose ODM, Spring
+- :computer: Languages, Tools, Technologies: Python, JavaScript, TypeScript, ReactJS, Redux, Angular, Firebase, Express.js, Node.js, Mongoose ODM, Spring
 - :globe_with_meridians: Find me at https://www.linkedin.com/in/xinyitay/ :)
 
 <!--
