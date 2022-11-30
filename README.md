@@ -2,7 +2,7 @@
 
 I'm passionate about fullstack development using JavaScript, TypeScript and Java/Go. Areas of interest include FinTech & Tech For Good. Currently exploring blockchain development!
 
-- 👩🏻‍💻  Graduate Student at the National University of Singapore, pursuing Systems Analysis
+- 👩🏻‍💻  Graduate Student at the National University of Singapore, pursuing Systems Analysis, Software Engineer @ NUS Fintech Society (2021-2022)
 - :computer: Languages, Tools, Technologies: Python, JavaScript, TypeScript, ReactJS, Redux, Angular, Spring
 - :globe_with_meridians: Find me at https://www.linkedin.com/in/xinyitay/ :)
 
