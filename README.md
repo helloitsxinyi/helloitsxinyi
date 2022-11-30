@@ -1,6 +1,6 @@
 ### Hi! Thanks for stopping by 👋
 
-I'm passionate about fullstack development using JavaScript, TypeScript and Java. Domain interests include FinTech & Tech For Good. Currently exploring blockchain development!
+I'm passionate about fullstack development using JavaScript, TypeScript and Java. Areas of interest include FinTech & Tech For Good. Currently exploring blockchain development!
 
 - 👩🏻‍💻  Graduate Student at the National University of Singapore, pursuing Systems Analysis
 - :computer: Languages, Tools, Technologies: Python, JavaScript, TypeScript, ReactJS, Redux, Angular, Spring
