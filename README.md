@@ -4,7 +4,6 @@ I'm passionate about fullstack development using JavaScript, TypeScript and Java
 
 - 👩🏻‍💻  Graduate Student at the National University of Singapore (Systems Analysis), Software Engineer @ NUS Fintech Society (2021-2022)
 - :computer: Languages, Tools, Technologies: Python, JavaScript, TypeScript, ReactJS, Redux, Angular, Spring
-- :globe_with_meridians: Find me at https://www.linkedin.com/in/xinyitay/ :)
 
 <!--
 **xinyitay/xinyitay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
