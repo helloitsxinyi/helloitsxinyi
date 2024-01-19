@@ -1,6 +1,6 @@
 ### Hi! Thanks for stopping by 👋
 
-I'm passionate about fullstack development using JavaScript, TypeScript and Python. Areas of interest include FinTech & Tech For Good. Currently exploring blockchain development!
+I'm passionate about software development using JavaScript, TypeScript and Python. Other areas of interest include Machine Learning & Tech For Good. Currently preparing for the AWS SAA certification!
 
 - 👩🏻‍💻  Software Engineer
 - :computer: Languages, Tools, Technologies: Python, JavaScript, TypeScript, ReactJS, NextJS, Redux
