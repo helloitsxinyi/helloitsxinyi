@@ -12,7 +12,7 @@ My other areas of interest include Machine Learning, Tech For Good and knowledge
 Always open to global opportunities and relocation - feel free to reach out at https://www.linkedin.com/in/xinyitay/ ! 
 
 - 👩🏻‍💻  Software Engineer
-- :computer: Languages, Tools, Technologies: Python, JavaScript, TypeScript, ReactJS, NextJS, Redux
+- :computer: Languages, Tools, Technologies: Python, JavaScript, TypeScript, ReactJS, NextJS, Azure OpenAI, RAG
 
 <!--
 **xinyitay/xinyitay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
