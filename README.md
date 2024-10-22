@@ -1,7 +1,7 @@
 ### Hi! Thanks for stopping by 👋
 
 I'm a Master's student in Computer Science at the Georgia Insitute of Technology (go Jackets!) and am passionate about software development using JavaScript, TypeScript and Python. I've also worked in multicultural environments and have collaborated with teams in Asia and Europe to develop:
-- an RAG Insurance Tariff Chatbot (Python & Azure OpenAI)
+- an RAG Insurance Tariff Chatbot for internal sales employees (Python & Azure OpenAI)
 - a sports facility wayfinding application (NextJS, Chakra UI, Jest)
 - a one-stop career platform with 5,000 users (TypeScript, React, Firebase)
 
