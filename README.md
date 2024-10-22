@@ -6,8 +6,8 @@ I'm a Master's student in Computer Science at the Georgia Insitute of Technology
 - a one-stop career platform with 5,000 users (TypeScript, React, Firebase)
 
 My other areas of interest include Machine Learning, Tech For Good and knowledge sharing. My previous workshops include:
-- Clean Code and software craftsmanship for scientists at a Swiss research institute
-- Linux for systems administrators at a global pharmaceutical company
+- Clean Code and software craftsmanship for scientists at a Swiss research institute (Python)
+- Linux for systems administrators at a global pharmaceutical company (Linux, Bash)
 
 Always open to global opportunities and relocation - feel free to reach out at https://www.linkedin.com/in/xinyitay/ ! 
 
