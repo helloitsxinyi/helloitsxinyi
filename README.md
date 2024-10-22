@@ -1,6 +1,6 @@
 ### Hi! Thanks for stopping by 👋
 
-I'm a Master's student pursuing Computer Science and am passionate about software development using JavaScript, TypeScript and Python. Always open to global opportunities and relocation. I've also worked in multicultural environments and have collaborated with teams in Asia and Europe to develop:
+I'm a Master's student pursuing Computer Science and am passionate about software development using JavaScript, TypeScript and Python. I've also worked in multicultural environments and have collaborated with teams in Asia and Europe to develop:
 - an RAG Insurance Tariff Chatbot (Python & Azure OpenAI)
 - a sports facility wayfinding application (NextJS, Chakra UI, Jest)
 - a one-stop career platform with 5,000 users (TypeScript, React, Firebase)
@@ -8,6 +8,8 @@ I'm a Master's student pursuing Computer Science and am passionate about softwar
 My other areas of interest include Machine Learning, Tech For Good and knowledge sharing. My previous workshops include:
 - Clean Code and software craftsmanship for scientists at a Swiss research institute
 - Linux for systems administrators at a global pharmaceutical company
+
+Always open to global opportunities and relocation - feel free to reach out at https://www.linkedin.com/in/xinyitay/ ! 
 
 - 👩🏻‍💻  Software Engineer
 - :computer: Languages, Tools, Technologies: Python, JavaScript, TypeScript, ReactJS, NextJS, Redux
